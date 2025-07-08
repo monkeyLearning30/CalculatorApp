@@ -3,6 +3,10 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
 
+        new Calculator().run();
+    }
+
+    public void run() {
         Scanner scanner = new Scanner(System.in);
 
         int result;

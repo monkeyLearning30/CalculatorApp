@@ -1,11 +1,10 @@
-# Calculator
+## How to Run
+1. Clone repository: `git clone https://github.com/monkeyLearning30/CalculatorApp.git`
+2. Compile: `javac Calculator.java`
+3. Run: `java Calculator`
 
-Описание Java-приложения.
-
-## Как запустить
-1. Скомпилируйте: `javac Calculator.java`
-2. Запустите: `java Calculator`
-3. Введите первое число
-4. Введите знак
-5. Введите второе число
-6. Калькулятор выполняет следующие действия: сложение, вычитание, умножение, деление.
+## Features
+- Basic arithmetic operations
+- Error handling for:
+    - Invalid numbers
+    - Division by zero (TODO)
