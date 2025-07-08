@@ -1,0 +1,23 @@
+# Скомпилированные файлы
+*.class
+*.jar
+*.war
+
+# Папки сборки
+target/
+bin/
+build/
+out/
+
+# Файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# Системные файлы
+.DS_Store
+*.log
